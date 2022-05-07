@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="220" height="150"/>
  </div>
  <div id=badges align="center">
   <a href="https://www.linkedin.com/in/CalebCoughenour/">
