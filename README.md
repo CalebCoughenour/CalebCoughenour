@@ -36,11 +36,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="DotNET" alt="DotNET" width="40" height="40"/>&nbsp;
-</div>     
-
----
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalebCoughenour&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebCoughenour&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
