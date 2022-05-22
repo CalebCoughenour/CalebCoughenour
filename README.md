@@ -18,7 +18,7 @@
   - 🧠 <strong>Learning HTML, CSS, Javascript/Jquery, C# & React</strong>
 </div>
 <div align="center">
- - 📫 <strong><a href="mailto:CalebCoughenour@protonmail.com">Email Me</a></strong>
+ - 📫 <strong><a href="mailto:CalebCoughenour@protonmail.com">Email Me</a> - CalebCoughenour@protonmail.com</strong>
 </div>
 <div align="center">
   <h1>🛠️Languages & Tools</h1>
