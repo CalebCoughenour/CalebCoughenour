@@ -15,7 +15,7 @@
  - 💻 <strong>Currently I am attending Epicodus learning to become a Full Stack Developer</strong>
 </div>
 <div align="center">
-  - 🧠 <strong>HTML, CSS, Javascript/Jquery, C# & React</strong>
+  - 🧠 <strong>Javascript, C#, React, HTML & CSS</strong>
 </div>
 <div align="center">
  - 📫 <strong><a href="mailto:CalebCoughenour@protonmail.com">Email Me</a> - CalebCoughenour@protonmail.com</strong>
