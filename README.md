@@ -12,7 +12,7 @@
  <h1>:open_book: About Me</h1>
 </div>
 <div align="center">
- - 💻 <strong>Currently I am attending Epicodus learning to become a Full Stack Developer</strong>
+ - 💻 <strong>Interning with Advertising Solutions</strong>
 </div>
 <div align="center">
   - 🧠 <strong>Javascript, C#, React, HTML & CSS</strong>
