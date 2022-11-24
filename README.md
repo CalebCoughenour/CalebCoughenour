@@ -12,10 +12,7 @@
  <h1>:open_book: About Me</h1>
 </div>
 <div align="center">
- - 💻 <strong>Interning with Advertising Solutions</strong>
-</div>
-<div align="center">
-  - 🧠 <strong>Javascript, C#, React, HTML & CSS</strong>
+  - 🧠 <strong>Javascript, React, C#, PHP HTML & CSS</strong>
 </div>
 <div align="center">
  - 📫 <strong><a href="mailto:CalebCoughenour@protonmail.com">Email Me</a> - CalebCoughenour@protonmail.com</strong>
