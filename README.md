@@ -12,7 +12,7 @@
  <h1>:open_book: About Me</h1>
 </div>
 <div align="center">
-  - 🧠 <strong>Javascript, React, C#, PHP HTML & CSS</strong>
+  - 🧠 <strong>Javascript, React, Python, SQL, C#, PHP HTML & CSS</strong>
 </div>
 <div align="center">
  - 📫 <strong><a href="mailto:CalebCoughenour@protonmail.com">Email Me</a> - CalebCoughenour@protonmail.com</strong>
